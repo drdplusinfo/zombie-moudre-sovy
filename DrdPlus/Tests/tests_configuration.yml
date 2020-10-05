@@ -1,0 +1,9 @@
+expected_public_url: 'https://hranicar.drdplus.info'
+has_custom_body_content: false
+some_expected_table_ids:
+  - 'tabulka_oprav_pro_stopovani'
+block_names_to_expected_content: []
+expected_web_name: 'DrD+ pravidla pro Hraničáře'
+expected_page_title: 'DrD+ pravidla pro Hraničáře'
+expected_google_analytics_id: 'UA-121206931-8'
+has_tables_related_content: false

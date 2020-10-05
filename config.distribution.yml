@@ -1,0 +1,11 @@
+web:
+  menu:
+    position_fixed: false
+    show_home_button_on_homepage: false
+    show_home_button_on_routes: false
+    home_button_target: '/'
+  protected_access: false
+  name: 'Zombie Moudré sovy'
+  title_smiley: '🦉'
+google:
+  analytics_id: 'UA-121206931-0'
