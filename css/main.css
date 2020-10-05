@@ -1,0 +1,14 @@
+body {
+    font-size: 25px;
+}
+
+.quote {
+    display: block;
+    text-align: center;
+}
+
+.appeal {
+    font-size: 2em;
+    text-align: center;
+    padding: 1em;
+}
